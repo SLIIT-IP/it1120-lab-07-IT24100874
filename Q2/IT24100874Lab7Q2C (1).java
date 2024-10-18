@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class IT24102730Lab7Q2C {
     public static void main(String[] args) {
         int i , j;
